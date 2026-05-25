@@ -13,7 +13,7 @@ Exploring full-stack development | Problem solver at heart | Open to internships
 
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="top" width="100%">
 
 ### About Me
 
@@ -27,11 +27,6 @@ Exploring full-stack development | Problem solver at heart | Open to internships
 
 Working on my tech hobbies, Movies/Shows and Gaming :)
 
-  </td>
-  <td valign="center" width="40%">
-    <img src="hackerman.gif" width="100%" />
-  </td>
-  </tr>
 </table>
 
 ---
