@@ -29,7 +29,7 @@ Working on my tech hobbies, Movies/Shows and Gaming :)
 
   </td>
   <td valign="center" width="40%">
-    <img src="https://giphy.com/gifs/YQitE4YNQNahy" width="100%" />
+    <img src="hackerman.gif" width="100%" />
   </td>
   </tr>
 </table>
@@ -41,7 +41,7 @@ const abdullah = {
   code: ["JavaScript", "Go", "Python", "C", "C++", "Java"],
   tools: ["React.js", "Docker", "Git", "VS Code", "Zed"],
   interests: ["problem solving", "backend systems", "open source"],
-  goal: "Becoming a full-stack developer",
+  goal: "Becoming a backend developer",
   funFact: "I break stuff especially anything related to tech but I fix it to make myself look even more awesome"
 }
 ```
@@ -68,18 +68,6 @@ const abdullah = {
     <td><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="40" height="40" alt="bootstrap"/></td>
   </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=xcCodebreaker&show_icons=true&theme=tokyonight&hide_border=true" alt="Abdullah's GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcCodebreaker&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
