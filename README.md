@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xcCodebreaker&label=Profile+views&color=0e75b6&style=flat)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Courier+New&pause=200&center=true&width=450&lines=Oi+.+.+.;Name%27s+xcCodebreaker+.+.+.;I%27m+gonna+put+some+dirt+in+eye)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Courier+New&pause=200&center=true&width=450&lines=Oi;Name%27s+xcCodebreaker;I%27m+gonna+put+some+dirt+in+eye)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,7 +11,7 @@
 
 Explorer and also the gatherer of knowledge in the obscure lands known as Software Engineering. 
 Working on becoming the builder of entities called "Softwares". 
-Also, prefer indulging into activities like watching movies/show and gaming.
+Also, prefer indulging into activities like watching movies/shows and gaming.
 
 ---
 
