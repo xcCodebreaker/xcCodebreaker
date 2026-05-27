@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&pause=300&center=true&width=435&lines=Hello%2C+There+%F0%9F%91%8B%F0%9F%8F%BD;I'm+Abdullah+.+.+.;Good+To+See+You+.+.+.)](https://git.io/typing-svg)
 
-**SWE Student** | Building with HTML5, CSS3, JavaScript, Go & React.js
-Exploring full-stack development | Problem solver at heart | Open to internships
-
 </div>
 
 ---
@@ -17,15 +14,7 @@ Exploring full-stack development | Problem solver at heart | Open to internships
 
 ### About Me
 
-- 🎓 Studying **Software Engineering** at Metropolitan University, Sylhet
-- 🔭 Currently building **SilverScreen** — a Go + React.js full-stack app
-- 📖 Learning **React.js & full-stack web dev** (Colt Steele Bootcamp, Udemy)
-- 🤝 Open to **internship opportunities**
-- 📍 Based in **Sylhet, Bangladesh**
-
-### My Favourites
-
-Working on my tech hobbies, Movies/Shows and Gaming :)
+Currently exploring and gathering knowledge in the obscure lands known as Software Engineering. Working on becoming the builder of entities called "Softwares". Also, prefer indulging into activities like watching movies/show and gaming.
 
 </table>
 
@@ -68,9 +57,9 @@ const abdullah = {
 
 ---
 
-<div align="center">
+<div align="start">
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <a href="https://www.linkedin.com/in/abdullah-700aa840b/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="26" />
