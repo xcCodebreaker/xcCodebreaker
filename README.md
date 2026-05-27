@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xcCodebreaker&label=Profile+views&color=0e75b6&style=flat)
 
-[![Typing SVG]([https://readme-typing-svg.demolab.com/?font=Courier+New&pause=100&center=true&width=450&lines=Oi;Name%27s+xcCodebreaker;I%27m+gonna+put+some+dirt+in+your+eye](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=500&duration=1200&pause=1000&color=0AF75E&center=true&vCenter=true&width=600&lines=Oi;Name's+Codebreaker;I'm+gonna+put+some+dirt+in+your+eye))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=500&duration=1200&pause=1000&color=0AF75E&center=true&vCenter=true&width=600&lines=Oi;Name's+Codebreaker;I'm+gonna+put+some+dirt+in+your+eye)](https://git.io/typing-svg)
 
 </div>
 
