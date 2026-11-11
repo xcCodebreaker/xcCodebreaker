@@ -9,7 +9,7 @@
 ---
 ## About Me
 
-Explorer and also the gatherer of knowledge in the obscure lands known as Software Engineering. 
+Explorer of knowledge in the obscure lands known as Software Engineering. 
 Working on becoming the builder of entities called "Softwares". 
 Also, prefer indulging into activities like watching movies/shows and gaming.
 
